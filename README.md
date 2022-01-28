@@ -9,4 +9,4 @@ This aplication allows users to add expenses and deposits so they can keep track
 
 ## How to use
 [Click here to launch the application](https://shrouded-retreat-70146.herokuapp.com/) and start saving some money!!
-<img src="screenshot-budget.png"/>
+<img src="screenshot.png"/>
